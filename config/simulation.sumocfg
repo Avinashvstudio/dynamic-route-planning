@@ -1,0 +1,11 @@
+<configuration>
+    <input>
+        <net-file value="../data/test.net.xml"/>
+        <route-files value="../data/map.rou.xml"/>
+        <!-- <additional-files value="map.poly.xml"/> --> <!-- If polygons were imported -->
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="20000"/>
+    </time>
+</configuration>
